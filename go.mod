@@ -2,6 +2,8 @@ module github.com/mrh997/eino
 
 go 1.18
 
+// test comment
+
 require (
 	github.com/bytedance/sonic v1.13.2
 	github.com/eino-contrib/jsonschema v1.0.0
