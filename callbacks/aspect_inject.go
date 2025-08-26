@@ -19,9 +19,9 @@ package callbacks
 import (
 	"context"
 
-	"github.com/cloudwego/eino/components"
-	"github.com/cloudwego/eino/internal/callbacks"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/components"
+	"github.com/mrh997/eino/internal/callbacks"
+	"github.com/mrh997/eino/schema"
 )
 
 // OnStart Fast inject callback input / output aspect for component developer

@@ -21,8 +21,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/cloudwego/eino/components/retriever"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/components/retriever"
+	"github.com/mrh997/eino/schema"
 )
 
 type testRetriever struct{}

@@ -16,7 +16,7 @@
 
 package model
 
-import "github.com/cloudwego/eino/schema"
+import "github.com/mrh997/eino/schema"
 
 // Options is the common options for the model.
 type Options struct {

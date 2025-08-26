@@ -1,4 +1,4 @@
-module github.com/cloudwego/eino
+module github.com/mrh997/eino
 
 go 1.18
 

@@ -21,10 +21,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/cloudwego/eino/callbacks"
-	"github.com/cloudwego/eino/components"
-	"github.com/cloudwego/eino/components/retriever"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/callbacks"
+	"github.com/mrh997/eino/components"
+	"github.com/mrh997/eino/components/retriever"
+	"github.com/mrh997/eino/schema"
 )
 
 // RetrieveTask is a task for retrieving documents.

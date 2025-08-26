@@ -28,10 +28,10 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/cloudwego/eino/callbacks"
-	"github.com/cloudwego/eino/components/model"
-	"github.com/cloudwego/eino/components/prompt"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/callbacks"
+	"github.com/mrh997/eino/components/model"
+	"github.com/mrh997/eino/components/prompt"
+	"github.com/mrh997/eino/schema"
 )
 
 func TestSingleGraph(t *testing.T) {

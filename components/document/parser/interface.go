@@ -20,7 +20,7 @@ import (
 	"context"
 	"io"
 
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/schema"
 )
 
 // Parser is a document parser, can be used to parse a document from a reader.

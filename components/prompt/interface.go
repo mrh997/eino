@@ -19,7 +19,7 @@ package prompt
 import (
 	"context"
 
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/schema"
 )
 
 var _ ChatTemplate = &DefaultChatTemplate{}

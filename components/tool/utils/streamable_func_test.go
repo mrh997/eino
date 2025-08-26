@@ -25,8 +25,8 @@ import (
 	"github.com/getkin/kin-openapi/openapi3"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/cloudwego/eino/components/tool"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/components/tool"
+	"github.com/mrh997/eino/schema"
 )
 
 func TestNewStreamableTool(t *testing.T) {

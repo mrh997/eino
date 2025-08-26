@@ -118,7 +118,7 @@ func NewParamsOneOfByJSONSchema(s *jsonschema.Schema) *ParamsOneOf {
 }
 
 // Deprecated: use NewParamsOneOfByJSONSchema instead.
-// For more information, see https://github.com/cloudwego/eino/discussions/397.
+// For more information, see https://github.com/mrh997/eino/discussions/397.
 // NewParamsOneOfByOpenAPIV3 creates a ParamsOneOf with *openapi3.Schema.
 func NewParamsOneOfByOpenAPIV3(openAPIV3 *openapi3.Schema) *ParamsOneOf {
 	return &ParamsOneOf{
@@ -127,7 +127,7 @@ func NewParamsOneOfByOpenAPIV3(openAPIV3 *openapi3.Schema) *ParamsOneOf {
 }
 
 // Deprecated: use ToJSONSchema instead.
-// For more information, see https://github.com/cloudwego/eino/discussions/397.
+// For more information, see https://github.com/mrh997/eino/discussions/397.
 // ToOpenAPIV3 parses ParamsOneOf, converts the parameter description that user actually provides, into the format ready to be passed to Model.
 func (p *ParamsOneOf) ToOpenAPIV3() (*openapi3.Schema, error) {
 	if p == nil {

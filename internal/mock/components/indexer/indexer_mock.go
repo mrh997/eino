@@ -29,8 +29,8 @@ import (
 	context "context"
 	reflect "reflect"
 
-	indexer "github.com/cloudwego/eino/components/indexer"
-	schema "github.com/cloudwego/eino/schema"
+	indexer "github.com/mrh997/eino/components/indexer"
+	schema "github.com/mrh997/eino/schema"
 	gomock "go.uber.org/mock/gomock"
 )
 

@@ -19,9 +19,9 @@ package prompt
 import (
 	"context"
 
-	"github.com/cloudwego/eino/callbacks"
-	"github.com/cloudwego/eino/components"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/callbacks"
+	"github.com/mrh997/eino/components"
+	"github.com/mrh997/eino/schema"
 )
 
 // DefaultChatTemplate is the default chat template implementation.

@@ -20,7 +20,7 @@ import (
 	"context"
 	"io"
 
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/schema"
 )
 
 const (

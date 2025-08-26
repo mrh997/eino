@@ -19,8 +19,8 @@ package callbacks
 import (
 	"context"
 
-	"github.com/cloudwego/eino/components"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/components"
+	"github.com/mrh997/eino/schema"
 )
 
 type RunInfo struct {

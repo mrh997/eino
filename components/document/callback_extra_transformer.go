@@ -17,8 +17,8 @@
 package document
 
 import (
-	"github.com/cloudwego/eino/callbacks"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/callbacks"
+	"github.com/mrh997/eino/schema"
 )
 
 // TransformerCallbackInput is the input for the transformer callback.

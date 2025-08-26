@@ -21,10 +21,10 @@ import (
 	"io"
 	"sync"
 
-	"github.com/cloudwego/eino/components/model"
-	"github.com/cloudwego/eino/compose"
-	"github.com/cloudwego/eino/flow/agent"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/components/model"
+	"github.com/mrh997/eino/compose"
+	"github.com/mrh997/eino/flow/agent"
+	"github.com/mrh997/eino/schema"
 )
 
 type state struct {

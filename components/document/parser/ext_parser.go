@@ -22,7 +22,7 @@ import (
 	"io"
 	"path/filepath"
 
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/schema"
 )
 
 // ExtParserConfig defines the configuration for the ExtParser.

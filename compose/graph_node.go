@@ -21,8 +21,8 @@ import (
 	"errors"
 	"reflect"
 
-	"github.com/cloudwego/eino/components"
-	"github.com/cloudwego/eino/internal/generic"
+	"github.com/mrh997/eino/components"
+	"github.com/mrh997/eino/internal/generic"
 )
 
 // the info of most original executable object directly provided by the user

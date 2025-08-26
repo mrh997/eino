@@ -19,7 +19,7 @@ package model
 import (
 	"context"
 
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/schema"
 )
 
 // BaseChatModel defines the basic interface for chat models.

@@ -19,14 +19,14 @@ package react
 import (
 	"context"
 
-	"github.com/cloudwego/eino/callbacks"
-	"github.com/cloudwego/eino/components/model"
-	"github.com/cloudwego/eino/components/tool"
-	"github.com/cloudwego/eino/compose"
-	"github.com/cloudwego/eino/flow/agent"
-	"github.com/cloudwego/eino/internal"
-	"github.com/cloudwego/eino/schema"
-	ub "github.com/cloudwego/eino/utils/callbacks"
+	"github.com/mrh997/eino/callbacks"
+	"github.com/mrh997/eino/components/model"
+	"github.com/mrh997/eino/components/tool"
+	"github.com/mrh997/eino/compose"
+	"github.com/mrh997/eino/flow/agent"
+	"github.com/mrh997/eino/internal"
+	"github.com/mrh997/eino/schema"
+	ub "github.com/mrh997/eino/utils/callbacks"
 )
 
 // WithToolOptions returns an agent option that specifies tool.Option for the tools in agent.

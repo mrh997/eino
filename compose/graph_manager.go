@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"runtime/debug"
 
-	"github.com/cloudwego/eino/internal"
-	"github.com/cloudwego/eino/internal/safe"
+	"github.com/mrh997/eino/internal"
+	"github.com/mrh997/eino/internal/safe"
 )
 
 type channel interface {

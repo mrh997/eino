@@ -26,11 +26,11 @@ import (
 	"github.com/bytedance/sonic"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/cloudwego/eino/components/model"
-	"github.com/cloudwego/eino/components/tool"
-	"github.com/cloudwego/eino/components/tool/utils"
-	"github.com/cloudwego/eino/internal"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/components/model"
+	"github.com/mrh997/eino/components/tool"
+	"github.com/mrh997/eino/components/tool/utils"
+	"github.com/mrh997/eino/internal"
+	"github.com/mrh997/eino/schema"
 )
 
 const (

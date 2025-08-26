@@ -19,7 +19,7 @@ package indexer
 import (
 	"context"
 
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/schema"
 )
 
 // Indexer is the interface for the indexer.

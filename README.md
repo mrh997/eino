@@ -1,12 +1,12 @@
 # Eino
 
 ![coverage](https://raw.githubusercontent.com/cloudwego/eino/badges/.badges/main/coverage.svg)
-[![Release](https://img.shields.io/github/v/release/cloudwego/eino)](https://github.com/cloudwego/eino/releases)
+[![Release](https://img.shields.io/github/v/release/cloudwego/eino)](https://github.com/mrh997/eino/releases)
 [![WebSite](https://img.shields.io/website?up_message=cloudwego&url=https%3A%2F%2Fwww.cloudwego.io%2F)](https://www.cloudwego.io/)
-[![License](https://img.shields.io/github/license/cloudwego/eino)](https://github.com/cloudwego/eino/blob/main/LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/cloudwego/eino)](https://goreportcard.com/report/github.com/cloudwego/eino)
+[![License](https://img.shields.io/github/license/cloudwego/eino)](https://github.com/mrh997/eino/blob/main/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mrh997/eino)](https://goreportcard.com/report/github.com/mrh997/eino)
 [![OpenIssue](https://img.shields.io/github/issues/cloudwego/eino)](https://github.com/cloudwego/kitex/eino)
-[![ClosedIssue](https://img.shields.io/github/issues-closed/cloudwego/eino)](https://github.com/cloudwego/eino/issues?q=is%3Aissue+is%3Aclosed)
+[![ClosedIssue](https://img.shields.io/github/issues-closed/cloudwego/eino)](https://github.com/mrh997/eino/issues?q=is%3Aissue+is%3Aclosed)
 ![Stars](https://img.shields.io/github/stars/cloudwego/eino)
 ![Forks](https://img.shields.io/github/forks/cloudwego/eino)
 
@@ -144,7 +144,7 @@ Now let's create a 'ReAct' agent: A ChatModel binds to Tools. It receives input 
 
 ![](.github/static/img/eino/react.png)
 
-We provide a complete implementation for ReAct Agent out of the box in the `flow` package. Check out the code here: [flow/agent/react](https://github.com/cloudwego/eino/blob/main/flow/agent/react/react.go)
+We provide a complete implementation for ReAct Agent out of the box in the `flow` package. Check out the code here: [flow/agent/react](https://github.com/mrh997/eino/blob/main/flow/agent/react/react.go)
 
 Our implementation of ReAct Agent uses Eino's **graph orchestration** exclusively, which provides the following benefits out of the box:
 - Type checking: it makes sure the two nodes' input and output types match at compile time.
@@ -236,12 +236,12 @@ The Eino framework consists of several parts:
 
 - Eino(this repo): Contains Eino's type definitions, streaming mechanism, component abstractions, orchestration capabilities, aspect mechanisms, etc.
 
-- [EinoExt](https://github.com/cloudwego/eino-ext): Component implementations, callback handlers implementations, component usage examples, and various tools such as evaluators, prompt optimizers.
+- [EinoExt](https://github.com/mrh997/eino-ext): Component implementations, callback handlers implementations, component usage examples, and various tools such as evaluators, prompt optimizers.
 
-- [Eino Devops](https://github.com/cloudwego/eino-ext/tree/main/devops): visualized developing, visualized debugging
+- [Eino Devops](https://github.com/mrh997/eino-ext/tree/main/devops): visualized developing, visualized debugging
   etc.
 
-- [EinoExamples](https://github.com/cloudwego/eino-examples) is the repo containing example applications and best practices for Eino.
+- [EinoExamples](https://github.com/mrh997/eino-examples) is the repo containing example applications and best practices for Eino.
 
 ## Detailed Documentation
 
@@ -262,7 +262,7 @@ Please do **not** create a public GitHub issue.
 
 ## Contact US
 - How to become a member: [COMMUNITY MEMBERSHIP](https://github.com/cloudwego/community/blob/main/COMMUNITY_MEMBERSHIP.md)
-- Issues: [Issues](https://github.com/cloudwego/eino/issues)
+- Issues: [Issues](https://github.com/mrh997/eino/issues)
 - Lark: Scan the QR code below with [Register Feishu](https://www.feishu.cn/en/) to join our CloudWeGo/eino user group.
 
 &ensp;&ensp;&ensp; <img src=".github/static/img/eino/lark_group_zh.png" alt="LarkGroup" width="200"/>

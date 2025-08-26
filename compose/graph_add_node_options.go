@@ -19,7 +19,7 @@ package compose
 import (
 	"reflect"
 
-	"github.com/cloudwego/eino/internal/generic"
+	"github.com/mrh997/eino/internal/generic"
 )
 
 type graphAddNodeOpts struct {

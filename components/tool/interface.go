@@ -19,7 +19,7 @@ package tool
 import (
 	"context"
 
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/schema"
 )
 
 // BaseTool get tool info for ChatModel intent recognition.

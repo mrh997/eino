@@ -17,7 +17,7 @@
 package embedding
 
 import (
-	"github.com/cloudwego/eino/callbacks"
+	"github.com/mrh997/eino/callbacks"
 )
 
 // TokenUsage is the token usage for the embedding.

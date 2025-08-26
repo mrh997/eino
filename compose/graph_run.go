@@ -23,7 +23,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/cloudwego/eino/internal"
+	"github.com/mrh997/eino/internal"
 )
 
 type chanCall struct {

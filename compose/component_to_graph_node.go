@@ -17,13 +17,13 @@
 package compose
 
 import (
-	"github.com/cloudwego/eino/components"
-	"github.com/cloudwego/eino/components/document"
-	"github.com/cloudwego/eino/components/embedding"
-	"github.com/cloudwego/eino/components/indexer"
-	"github.com/cloudwego/eino/components/model"
-	"github.com/cloudwego/eino/components/prompt"
-	"github.com/cloudwego/eino/components/retriever"
+	"github.com/mrh997/eino/components"
+	"github.com/mrh997/eino/components/document"
+	"github.com/mrh997/eino/components/embedding"
+	"github.com/mrh997/eino/components/indexer"
+	"github.com/mrh997/eino/components/model"
+	"github.com/mrh997/eino/components/prompt"
+	"github.com/mrh997/eino/components/retriever"
 )
 
 func toComponentNode[I, O, TOption any](

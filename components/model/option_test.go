@@ -19,7 +19,7 @@ package model
 import (
 	"testing"
 
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/schema"
 	"github.com/smartystreets/goconvey/convey"
 )
 

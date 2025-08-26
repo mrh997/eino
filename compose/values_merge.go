@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/cloudwego/eino/internal"
+	"github.com/mrh997/eino/internal"
 )
 
 // RegisterValuesMergeFunc registers a function to merge outputs from multiple nodes when fan-in.

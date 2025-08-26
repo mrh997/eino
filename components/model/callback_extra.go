@@ -17,8 +17,8 @@
 package model
 
 import (
-	"github.com/cloudwego/eino/callbacks"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/callbacks"
+	"github.com/mrh997/eino/schema"
 )
 
 // TokenUsage is the token usage for the model.

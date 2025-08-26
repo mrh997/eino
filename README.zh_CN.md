@@ -1,12 +1,12 @@
 # Eino
 
 ![coverage](https://raw.githubusercontent.com/cloudwego/eino/badges/.badges/main/coverage.svg)
-[![Release](https://img.shields.io/github/v/release/cloudwego/eino)](https://github.com/cloudwego/eino/releases)
+[![Release](https://img.shields.io/github/v/release/cloudwego/eino)](https://github.com/mrh997/eino/releases)
 [![WebSite](https://img.shields.io/website?up_message=cloudwego&url=https%3A%2F%2Fwww.cloudwego.io%2F)](https://www.cloudwego.io/)
-[![License](https://img.shields.io/github/license/cloudwego/eino)](https://github.com/cloudwego/eino/blob/main/LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/cloudwego/eino)](https://goreportcard.com/report/github.com/cloudwego/eino)
+[![License](https://img.shields.io/github/license/cloudwego/eino)](https://github.com/mrh997/eino/blob/main/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mrh997/eino)](https://goreportcard.com/report/github.com/mrh997/eino)
 [![OpenIssue](https://img.shields.io/github/issues/cloudwego/eino)](https://github.com/cloudwego/kitex/eino)
-[![ClosedIssue](https://img.shields.io/github/issues-closed/cloudwego/eino)](https://github.com/cloudwego/eino/issues?q=is%3Aissue+is%3Aclosed)
+[![ClosedIssue](https://img.shields.io/github/issues-closed/cloudwego/eino)](https://github.com/mrh997/eino/issues?q=is%3Aissue+is%3Aclosed)
 ![Stars](https://img.shields.io/github/stars/cloudwego/eino)
 ![Forks](https://img.shields.io/github/forks/cloudwego/eino)
 
@@ -144,7 +144,7 @@ our, err := runnable.Invoke(ctx, []*schema.Message{
 
 ![](.github/static/img/eino/react.png)
 
-我们在 Eino 的 `flow` 包中提供了开箱即用的 ReAct 智能体的完整实现。代码参见： [flow/agent/react](https://github.com/cloudwego/eino/blob/main/flow/agent/react/react.go)
+我们在 Eino 的 `flow` 包中提供了开箱即用的 ReAct 智能体的完整实现。代码参见： [flow/agent/react](https://github.com/mrh997/eino/blob/main/flow/agent/react/react.go)
 
 我们的 ReAct 智能体实现完全基于 Eino 的编排能力。通过使用 Eino 编排，我们可以自动获得如下能力:
 
@@ -234,9 +234,9 @@ compiledGraph.Invoke(ctx, input, WithCallbacks(handler).DesignateNode("node_1"))
 
 Eino 框架由几个部分组成：
 - Eino（本代码仓库）：包含类型定义、流处理机制、组件抽象、编排功能、切面机制等。
-- [EinoExt](https://github.com/cloudwego/eino-ext)：组件实现、回调处理程序实现、组件使用示例，以及各种工具，如评估器、提示优化器等。
-- [Eino Devops](https://github.com/cloudwego/eino-ext/tree/main/devops)：可视化开发、可视化调试等。
-- [EinoExamples](https://github.com/cloudwego/eino-examples)：是包含示例应用程序和最佳实践的代码仓库。
+- [EinoExt](https://github.com/mrh997/eino-ext)：组件实现、回调处理程序实现、组件使用示例，以及各种工具，如评估器、提示优化器等。
+- [Eino Devops](https://github.com/mrh997/eino-ext/tree/main/devops)：可视化开发、可视化调试等。
+- [EinoExamples](https://github.com/mrh997/eino-examples)：是包含示例应用程序和最佳实践的代码仓库。
 
 ## 详细文档
 
@@ -258,7 +258,7 @@ Eino 框架由几个部分组成：
 ## 联系我们
 
 - 如何成为 member: [COMMUNITY MEMBERSHIP](https://github.com/cloudwego/community/blob/main/COMMUNITY_MEMBERSHIP.md)
-- Issues: [Issues](https://github.com/cloudwego/eino/issues)
+- Issues: [Issues](https://github.com/mrh997/eino/issues)
 - 飞书用户群（[注册飞书](https://www.feishu.cn/)后扫码进群）
 
 &ensp;&ensp;&ensp; <img src=".github/static/img/eino/lark_group_zh.png" alt="LarkGroup" width="200"/>

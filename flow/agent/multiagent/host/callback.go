@@ -22,12 +22,12 @@ import (
 	"io"
 	"runtime/debug"
 
-	"github.com/cloudwego/eino/callbacks"
-	"github.com/cloudwego/eino/components/model"
-	"github.com/cloudwego/eino/flow/agent"
-	"github.com/cloudwego/eino/internal/safe"
-	"github.com/cloudwego/eino/schema"
-	template "github.com/cloudwego/eino/utils/callbacks"
+	"github.com/mrh997/eino/callbacks"
+	"github.com/mrh997/eino/components/model"
+	"github.com/mrh997/eino/flow/agent"
+	"github.com/mrh997/eino/internal/safe"
+	"github.com/mrh997/eino/schema"
+	template "github.com/mrh997/eino/utils/callbacks"
 )
 
 // MultiAgentCallback is the callback interface for host multi-agent.

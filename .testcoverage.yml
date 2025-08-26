@@ -1,6 +1,6 @@
 # (optional; but recommended to set)
 # When specified reported file paths will not contain local prefix in the output.
-local-prefix: "github.com/cloudwego/eino"
+local-prefix: "github.com/mrh997/eino"
 
 # Holds coverage thresholds percentages, values should be in range [0-100].
 threshold:

@@ -24,8 +24,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/cloudwego/eino/components/tool"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/components/tool"
+	"github.com/mrh997/eino/schema"
 )
 
 type testErrorTool struct{}

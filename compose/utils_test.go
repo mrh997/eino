@@ -21,7 +21,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/cloudwego/eino/internal/generic"
+	"github.com/mrh997/eino/internal/generic"
 )
 
 type good interface {

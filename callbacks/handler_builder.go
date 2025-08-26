@@ -19,7 +19,7 @@ package callbacks
 import (
 	"context"
 
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/schema"
 )
 
 type HandlerBuilder struct {

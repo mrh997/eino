@@ -20,7 +20,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/cloudwego/eino/internal/serialization"
+	"github.com/mrh997/eino/internal/serialization"
 )
 
 func init() {

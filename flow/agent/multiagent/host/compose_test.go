@@ -25,12 +25,12 @@ import (
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/mock/gomock"
 
-	"github.com/cloudwego/eino/components/prompt"
-	"github.com/cloudwego/eino/compose"
-	"github.com/cloudwego/eino/flow/agent"
-	"github.com/cloudwego/eino/internal/generic"
-	"github.com/cloudwego/eino/internal/mock/components/model"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/components/prompt"
+	"github.com/mrh997/eino/compose"
+	"github.com/mrh997/eino/flow/agent"
+	"github.com/mrh997/eino/internal/generic"
+	"github.com/mrh997/eino/internal/mock/components/model"
+	"github.com/mrh997/eino/schema"
 )
 
 func TestHostMultiAgent(t *testing.T) {

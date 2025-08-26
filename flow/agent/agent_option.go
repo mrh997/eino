@@ -16,7 +16,7 @@
 
 package agent
 
-import "github.com/cloudwego/eino/compose"
+import "github.com/mrh997/eino/compose"
 
 // AgentOption is the common option type for various agent and multi-agent implementations.
 // For options intended to use with underlying graph or components, use WithComposeOptions to specify.

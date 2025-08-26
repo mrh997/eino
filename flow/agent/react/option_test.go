@@ -24,11 +24,11 @@ import (
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/mock/gomock"
 
-	"github.com/cloudwego/eino/components/model"
-	"github.com/cloudwego/eino/components/tool"
-	"github.com/cloudwego/eino/compose"
-	mockModel "github.com/cloudwego/eino/internal/mock/components/model"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/components/model"
+	"github.com/mrh997/eino/components/tool"
+	"github.com/mrh997/eino/compose"
+	mockModel "github.com/mrh997/eino/internal/mock/components/model"
+	"github.com/mrh997/eino/schema"
 )
 
 func TestWithMessageFuture(t *testing.T) {

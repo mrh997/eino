@@ -33,7 +33,7 @@ import (
 	"github.com/nikolalohinski/gonja/parser"
 	"github.com/slongfield/pyfmt"
 
-	"github.com/cloudwego/eino/internal"
+	"github.com/mrh997/eino/internal"
 )
 
 func init() {

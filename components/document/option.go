@@ -16,7 +16,7 @@
 
 package document
 
-import "github.com/cloudwego/eino/components/document/parser"
+import "github.com/mrh997/eino/components/document/parser"
 
 type LoaderOptions struct {
 	ParserOptions []parser.Option

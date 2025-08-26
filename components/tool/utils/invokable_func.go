@@ -24,9 +24,9 @@ import (
 	"github.com/bytedance/sonic"
 	"github.com/eino-contrib/jsonschema"
 
-	"github.com/cloudwego/eino/components/tool"
-	"github.com/cloudwego/eino/internal/generic"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/components/tool"
+	"github.com/mrh997/eino/internal/generic"
+	"github.com/mrh997/eino/schema"
 )
 
 // InvokeFunc is the function type for the tool.

@@ -23,15 +23,15 @@ import (
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/mock/gomock"
 
-	"github.com/cloudwego/eino/callbacks"
-	"github.com/cloudwego/eino/components/document"
-	"github.com/cloudwego/eino/components/embedding"
-	"github.com/cloudwego/eino/components/model"
-	"github.com/cloudwego/eino/components/retriever"
-	mockDocument "github.com/cloudwego/eino/internal/mock/components/document"
-	mockEmbedding "github.com/cloudwego/eino/internal/mock/components/embedding"
-	mockRetriever "github.com/cloudwego/eino/internal/mock/components/retriever"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/callbacks"
+	"github.com/mrh997/eino/components/document"
+	"github.com/mrh997/eino/components/embedding"
+	"github.com/mrh997/eino/components/model"
+	"github.com/mrh997/eino/components/retriever"
+	mockDocument "github.com/mrh997/eino/internal/mock/components/document"
+	mockEmbedding "github.com/mrh997/eino/internal/mock/components/embedding"
+	mockRetriever "github.com/mrh997/eino/internal/mock/components/retriever"
+	"github.com/mrh997/eino/schema"
 )
 
 var optionSuccess = true

@@ -25,8 +25,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/cloudwego/eino/internal/callbacks"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/internal/callbacks"
+	"github.com/mrh997/eino/schema"
 )
 
 func TestAspectInject(t *testing.T) {

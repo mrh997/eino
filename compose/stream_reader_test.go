@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/schema"
 	"github.com/stretchr/testify/assert"
 )
 

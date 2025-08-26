@@ -17,7 +17,7 @@
 package tool
 
 import (
-	"github.com/cloudwego/eino/callbacks"
+	"github.com/mrh997/eino/callbacks"
 )
 
 // CallbackInput is the input for the tool callback.

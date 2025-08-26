@@ -20,8 +20,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/cloudwego/eino/internal"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/internal"
+	"github.com/mrh997/eino/schema"
 )
 
 // RegisterStreamChunkConcatFunc registers a function to concat stream chunks.

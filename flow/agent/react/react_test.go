@@ -28,13 +28,13 @@ import (
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/mock/gomock"
 
-	"github.com/cloudwego/eino/components/model"
-	"github.com/cloudwego/eino/components/tool"
-	"github.com/cloudwego/eino/compose"
-	"github.com/cloudwego/eino/flow/agent"
-	mockModel "github.com/cloudwego/eino/internal/mock/components/model"
-	"github.com/cloudwego/eino/schema"
-	template "github.com/cloudwego/eino/utils/callbacks"
+	"github.com/mrh997/eino/components/model"
+	"github.com/mrh997/eino/components/tool"
+	"github.com/mrh997/eino/compose"
+	"github.com/mrh997/eino/flow/agent"
+	mockModel "github.com/mrh997/eino/internal/mock/components/model"
+	"github.com/mrh997/eino/schema"
+	template "github.com/mrh997/eino/utils/callbacks"
 )
 
 func TestReact(t *testing.T) {

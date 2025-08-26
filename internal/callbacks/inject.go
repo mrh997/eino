@@ -19,9 +19,9 @@ package callbacks
 import (
 	"context"
 
-	"github.com/cloudwego/eino/components"
-	"github.com/cloudwego/eino/internal/generic"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/components"
+	"github.com/mrh997/eino/internal/generic"
+	"github.com/mrh997/eino/schema"
 )
 
 func InitCallbacks(ctx context.Context, info *RunInfo, handlers ...Handler) context.Context {

@@ -17,8 +17,8 @@
 package document
 
 import (
-	"github.com/cloudwego/eino/callbacks"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/callbacks"
+	"github.com/mrh997/eino/schema"
 )
 
 // LoaderCallbackInput is the input for the loader callback.

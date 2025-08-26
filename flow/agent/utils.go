@@ -19,8 +19,8 @@ package agent
 import (
 	"errors"
 
-	"github.com/cloudwego/eino/components/model"
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/components/model"
+	"github.com/mrh997/eino/schema"
 )
 
 func ChatModelWithTools(model_ model.ChatModel, toolCallingModel model.ToolCallingChatModel,

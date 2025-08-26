@@ -23,7 +23,7 @@ import (
 
 	"github.com/bytedance/sonic"
 
-	"github.com/cloudwego/eino/schema"
+	"github.com/mrh997/eino/schema"
 )
 
 var m = map[string]reflect.Type{}

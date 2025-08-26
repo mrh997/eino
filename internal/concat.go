@@ -22,7 +22,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cloudwego/eino/internal/generic"
+	"github.com/mrh997/eino/internal/generic"
 )
 
 var (

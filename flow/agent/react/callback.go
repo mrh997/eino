@@ -17,8 +17,8 @@
 package react
 
 import (
-	"github.com/cloudwego/eino/callbacks"
-	template "github.com/cloudwego/eino/utils/callbacks"
+	"github.com/mrh997/eino/callbacks"
+	template "github.com/mrh997/eino/utils/callbacks"
 )
 
 // BuildAgentCallback builds a callback handler for agent.

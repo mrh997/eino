@@ -17,7 +17,7 @@
 package callbacks
 
 import (
-	"github.com/cloudwego/eino/internal/callbacks"
+	"github.com/mrh997/eino/internal/callbacks"
 )
 
 // RunInfo contains information about the running component.
